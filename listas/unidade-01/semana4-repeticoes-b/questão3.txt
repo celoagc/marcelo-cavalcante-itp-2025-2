@@ -1,0 +1,5 @@
+Nessa questão, precisamos levar em consideração que é o inverso da questão anterior. Ou seja, o programa solicita um valor para n, 
+em seguida, o laço externo, que controla a quantidade de linhas, se repete de 1 até n e para cada valor de i, o laço interno imprime 
+os números de i até 1, formando uma sequência decrescente em cada linha. Assim, a saída consiste em um triângulo numérico, no qual 
+a primeira linha contém apenas o número 1, a segunda linha contém os números 2 e 1, a terceira linha contém 3, 2 e 1, e 
+assim sucessivamente, até a linha n.
