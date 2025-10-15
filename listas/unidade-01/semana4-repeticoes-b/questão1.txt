@@ -1,0 +1,4 @@
+Nessa questão, temos dois laços aninhados do qual o laço externo i se repete 5 vezes (de 0 a 4), e dentro dele o laço interno j se repete 4 vezes (de 0 a 3).
+Ao executar o programa, o laço externo é inicializado e, a cada iteração, o laço interno é executado por completo, imprimindo os números de 0 a 3.
+Quando o laço interno finaliza, o programa volta para o laço externo para iniciar a próxima iteração. Dessa forma, o processo se repete até que o laço
+externo esteja concluído. O resultado final é a sequência de números de 0 a 3 impressa em 5 linhas.
