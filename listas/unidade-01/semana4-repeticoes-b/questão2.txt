@@ -1,0 +1,4 @@
+Com dois laços aninhados, o programa solicita o valor de n. Em seguida o laço que controla a quantidade de linhas (externo), se repete de 1 até n.
+O laço interno, por sua vez, imprime os números de 1 até 1, para cada valor de i, formando uma sequência crescente em cada linha. Dessa forma, a saída
+é basicamente um triângulo numérico crescente, onde a primeira linha contém apenas o número 1, a segunda contém os números 1 e 2, e assim sucessivamente
+até o programa ser finalizado na linha n.
